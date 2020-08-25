@@ -15,7 +15,7 @@ fwork = os.path.join(fdir, "work")
 fnames = [
     "pyCart.json",
     "input.cntl",
-    "bjet.i.tri",
+    "bJet.i.tri",
     "Config.xml",
     "matrix.csv"
 ]
